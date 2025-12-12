@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "WOODEN DOLL",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-12T07:31:53.402235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WOODEN DOLL",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_WOODEN_DOLL_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_WOODEN_DOLL_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_WOODEN_DOLL_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_WOODEN_DOLL_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WOODEN DOLL",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/05_WOODEN_DOLL_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/06_WOODEN_DOLL_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wooden Prince - 5. 4th dance: Dance of the Princess with the Wooden Doll",
+      "artist": "Antal Dorati, Belá Bártok",
+      "has_synced": true,
+      "path": "select/07_The_Wooden_Prince_-_5._4th_dance__Dance_of_the_Princess_with_the_Wooden_Doll_Antal_Dorati,_Belá_Bártok.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_WOODEN_DOLL_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_WOODEN_DOLL_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_WOODEN_DOLL_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_WOODEN_DOLL_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_WOODEN_DOLL_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "WOODEN DOLL",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_WOODEN_DOLL_米津玄師.txt"
+    }
+  ]
+}
